@@ -26,11 +26,7 @@ class Main {
                 break;
             case 4:
                 System.out.println("4.Division:"+(num1/num2));
-                break;
-                
-            
-                
-                
+                break;   
         }
      sc.close();   
     }
